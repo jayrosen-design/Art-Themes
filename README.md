@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/922553793.svg)](https://doi.org/10.5281/zenodo.14742435)
+
 # Self Portrait - Text Collage (2010)  
 **Featured in: _Art Themes: Choices in Art Learning and Making_**
 
