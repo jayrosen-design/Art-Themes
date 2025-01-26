@@ -5,15 +5,27 @@
 
 ## Overview
 
-This repository is an archive of my contribution to the university-level art textbook _Art Themes: Choices in Art Learning and Making_ by Marjorie Cohee Manifold. My artwork, **"Self Portrait - Text Collage" (2010)**, is featured on **page 75** in the chapter titled **"Lessons for Drawing Realistically"**.
+This repository archives my contribution to the university-level art textbook, _Art Themes: Choices in Art Learning and Making_, by Marjorie Cohee Manifold. My artwork, **"Self Portrait - Text Collage" (2010)**, is featured on **page 75** in **Chapter 1: Lessons in Drawing Realistically**.
+
+The chapter explores the transition from playful, expressive art making in childhood to the more visually realistic expectations that emerge as students mature. It provides lessons to guide readers in developing realistic drawing skills, helping reconnect with art in a meaningful and personal way.
+
+---
+
+## Featured Artwork
+
+### **Self Portrait - Text Collage (2010)**  
+- **Page**: 75  
+- **Chapter**: Lessons in Drawing Realistically (Chapter 1)  
+- **Scan of Artwork**:  
+  ![Self Portrait - Text Collage](https://github.com/jayrosen-design/Art-Themes/blob/main/scans/manifold.JPG)
 
 ---
 
 ## About the Book
 
-Flexible in approach and full of colorful examples, this textbook provides a comprehensive introduction to art for individuals who may not identify as "artists." It explores a variety of art themes, genres, materials, and processes, with lessons organized by themes of general subject matter or media. 
+Flexible in its approach and full of colorful examples, _Art Themes: Choices in Art Learning and Making_ provides a comprehensive introduction to art. It is designed for individuals who may not consider themselves "artists" but are interested in learning about a variety of art themes, genres, materials, and processes.
 
-Readers can work with traditional media such as drawing and painting or experiment with mixed media, photography, crafts, and digital media. Each thematic unit offers progressive lessons designed to develop a deeper understanding of art concepts, techniques, and processes.
+The lessons guide readers through thematic units that build progressively on prior knowledge and skills, helping students develop confidence in art-making while fostering appreciation for the art created by others.
 
 ---
 
@@ -25,35 +37,40 @@ Readers can work with traditional media such as drawing and painting or experime
 - **Language**: English  
 - **Paperback**: 692 pages  
 - **ISBN-10**: 0253022924  
-- **Amazon Link**: [Art Themes: Choices in Art Learning and Making](https://amzn.to/4aC8YN0)
+- **Amazon Link**: [Art Themes on Amazon](https://amzn.to/4aC8YN0)  
+- **JSTOR Link**: [Art Themes on JSTOR](https://www.jstor.org/stable/j.ctt2005vqs)
+
+#### Cover Image:  
+![Book Cover](https://github.com/jayrosen-design/Art-Themes/blob/main/scans/cover.jpg)
+
+---
+
+## Chapter Details
+
+**Chapter 1: Lessons in Drawing Realistically**  
+- **Pages**: 59-178  
+- **DOI**: [https://doi.org/10.2307/j.ctt2005vqs.6](https://doi.org/10.2307/j.ctt2005vqs.6)  
+- **JSTOR Link**: [View Chapter on JSTOR](https://www.jstor.org/stable/j.ctt2005vqs.6)
+
+> This chapter discusses how young children approach art making as a playful, expressive activity, whereas older students often prioritize realism. Lessons in this chapter aim to rekindle the joy of art while teaching realistic drawing techniques.
 
 ---
 
 ## Citation (APA Format)
 
-Manifold, M. C. (2017). *Art themes: Choices in art learning and making*. Indiana University Press.  
-
----
-
-## Featured Artwork
-
-### **Self Portrait - Text Collage (2010)**  
-- **Page**: 75  
-- **Chapter**: Lessons for Drawing Realistically  
-
-Below is a scanned image of the textbook spread showcasing my artwork:
-
-![Self Portrait - Text Collage](<Add_Scan_Image_Link_Here>)
+Manifold, M. C. (2017). _Art themes: Choices in art learning and making_. Indiana University Press.  
+- DOI: [https://doi.org/10.2307/j.ctt2005vqs](https://doi.org/10.2307/j.ctt2005vqs)
 
 ---
 
 ## Repository Contents
 
-- **`/scans`**: Contains the scanned page featuring my artwork.  
-- **`/resources`**: Additional resources and commentary about the artwork and its context within the book.  
+- **`/scans`**: Contains scans of the book cover and the page featuring my artwork.
+  - [Book Cover](https://github.com/jayrosen-design/Art-Themes/blob/main/scans/cover.jpg)  
+  - [Page 75 with Artwork](https://github.com/jayrosen-design/Art-Themes/blob/main/scans/manifold.JPG)
 
 ---
 
 ## License
 
-This repository is for archival and educational purposes only. All rights to the book and its content remain with the publisher and author. For more information, visit [Indiana University Press](https://iupress.org).
+This repository is for archival and educational purposes only. All rights to the book and its content remain with the author and publisher, Indiana University Press. For more information, visit [Indiana University Press](https://iupress.org).
